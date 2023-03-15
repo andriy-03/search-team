@@ -2,7 +2,6 @@ import React from "react";
 import Navbar from "./components/Navbar"
 import About from "./components/About"
 import CardTeam from "./components/CardTeam";
-import VideoPlayer from "./components/VideoPlayer";
 import {Routes, Route} from "react-router-dom"
 
 function App() {
